@@ -39,5 +39,4 @@ void main()
 	}
 
 	gl_FragColor = vec4(albedoColor * light * ao, 1.0f);
-} 
- 
+}
